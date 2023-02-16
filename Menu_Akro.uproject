@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "DolbiAtmos",
+			"Enabled": false
+		},
+		{
+			"Name": "AudioGameplayVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DolbyAtmos",
+			"Enabled": true
+		}
+	]
+}
